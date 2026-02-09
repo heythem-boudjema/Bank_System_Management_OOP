@@ -11,26 +11,36 @@ This project demonstrates OOP principles, secure banking operations, currency ex
 - Secure login system with credential verification.
 - Dynamic permissions (Admin/User).
 - Colored status indicators based on user permissions.
+![Login Screen](assets/LoginScreen.png)
+![Main Screen](assets/MainScreen.png)
 
 ### 👥 Client & User Management
 - Full CRUD operations for clients with encrypted storage.
 - User management with security levels.
 - Permission display screen for each user.
+![Client Screen](assets/ClientListScreen.png)
+![UserManagement Screen](assets/ManageUserScreen.png)
 
 ### 💰 Banking & Transactions
 - Deposit, Withdraw, Total Balance.
 - Secure transfers with validation.
 - Transfer logs for auditing.
 
+![Transaction Screen](assets/TransactionScreen.png)
+
 ### 🌍 Currency Exchange System
 - Live currency rates relative to USD.
 - Search by code/country.
 - Instant currency conversions.
+  
+![Currency Screen](assets/CurrencyScreen.png)
 
 ### 🛡️ Security & Logs
-- Tracks every user action (Login, Edit, View).
+- Tracks user login.
 - Clean admin logs viewer.
 - Re-encryption for security.
+  
+![Log Register Screen](assets/LogReg.png)
 
 ### 🎨 User Interface (UI)
 - Full color-coded terminal support.
